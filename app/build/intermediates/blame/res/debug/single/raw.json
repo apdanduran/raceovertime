@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\Dev\\TimesBallSonHali\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_soun_play.wav",
+        "source": "E:\\Dev\\TimesBallSonHali\\NgdroidApp\\app\\src\\main\\res\\raw\\game_soun_play.wav"
+    },
+    {
+        "merged": "E:\\Dev\\TimesBallSonHali\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\playgame.wav",
+        "source": "E:\\Dev\\TimesBallSonHali\\NgdroidApp\\app\\src\\main\\res\\raw\\playgame.wav"
+    },
+    {
+        "merged": "E:\\Dev\\TimesBallSonHali\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_false.wav",
+        "source": "E:\\Dev\\TimesBallSonHali\\NgdroidApp\\app\\src\\main\\res\\raw\\game_false.wav"
+    },
+    {
+        "merged": "C:\\TimesBall\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_soun_play.wav",
+        "source": "C:\\TimesBall\\NgdroidApp\\app\\src\\main\\res\\raw\\game_soun_play.wav"
+    },
+    {
+        "merged": "C:\\TimesBall\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_false.wav",
+        "source": "C:\\TimesBall\\NgdroidApp\\app\\src\\main\\res\\raw\\game_false.wav"
+    },
+    {
+        "merged": "C:\\TimesBall\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\playgame.wav",
+        "source": "C:\\TimesBall\\NgdroidApp\\app\\src\\main\\res\\raw\\playgame.wav"
+    },
+    {
+        "merged": "E:\\Dev\\TimesBallDuzgun\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_soun_play.wav",
+        "source": "E:\\Dev\\TimesBallDuzgun\\NgdroidApp\\app\\src\\main\\res\\raw\\game_soun_play.wav"
+    },
+    {
+        "merged": "C:\\TimesBallmzk\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_sound_true.wav",
+        "source": "C:\\TimesBallmzk\\NgdroidApp\\app\\src\\main\\res\\raw\\game_sound_true.wav"
+    },
+    {
+        "merged": "E:\\Dev\\TimesBallSonHali\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_sound_true.wav",
+        "source": "E:\\Dev\\TimesBallSonHali\\NgdroidApp\\app\\src\\main\\res\\raw\\game_sound_true.wav"
+    },
+    {
+        "merged": "C:\\TimesBallmzk\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_soun_play.wav",
+        "source": "C:\\TimesBallmzk\\NgdroidApp\\app\\src\\main\\res\\raw\\game_soun_play.wav"
+    },
+    {
+        "merged": "C:\\TimesBallmzk\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\playgame.wav",
+        "source": "C:\\TimesBallmzk\\NgdroidApp\\app\\src\\main\\res\\raw\\playgame.wav"
+    },
+    {
+        "merged": "C:\\TimesBall\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_sound_true.wav",
+        "source": "C:\\TimesBall\\NgdroidApp\\app\\src\\main\\res\\raw\\game_sound_true.wav"
+    },
+    {
+        "merged": "C:\\TimesBallmzk\\NgdroidApp\\app\\build\\intermediates\\res\\merged\\debug\\raw\\game_false.wav",
+        "source": "C:\\TimesBallmzk\\NgdroidApp\\app\\src\\main\\res\\raw\\game_false.wav"
+    }
+]
